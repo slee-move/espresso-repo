@@ -1,4 +1,4 @@
 # espresso-repo
-Andrew Percher - Andrew.Percher@macys.com
-Gopinath, gopinathch@live.com
-Steve Lee - steve.lee@move.com
+Andrew Percher - Andrew.Percher@macys.com<br>
+Gopinath, gopinathch@live.com<br>
+Steve Lee - steve.lee@move.com<br>
